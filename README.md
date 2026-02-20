@@ -1,7 +1,7 @@
 # FastAPI Best Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-fastapi--best--practices-blue)](https://skills.sh/ofershap/fastapi-best-practices/fastapi-best-practices)
+[![Skills](https://img.shields.io/badge/skills.sh-fastapi--best--practices-blue)](https://skills.sh/ofershap/fastapi-best-practices)
 
 FastAPI done right. Async/sync endpoint selection, `Depends()` for dependency injection, Pydantic v2
 models, lifespan context managers, `BackgroundTasks`, `APIRouter`, `Annotated` types, and production
@@ -16,7 +16,7 @@ project structure.
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/fastapi-best-practices/fastapi-best-practices
+npx skills add ofershap/fastapi-best-practices
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
