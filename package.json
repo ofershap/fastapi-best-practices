@@ -8,7 +8,17 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["fastapi", "python", "api", "async", "pydantic", "best-practices", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "fastapi",
+    "python",
+    "api",
+    "async",
+    "pydantic",
+    "best-practices",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "author": {
     "name": "Ofer Shapira",
     "url": "https://github.com/ofershap"

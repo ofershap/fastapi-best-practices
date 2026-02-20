@@ -1,6 +1,7 @@
 # FastAPI Best Practices
 
-FastAPI done right. Async patterns, dependency injection, Pydantic v2 models, middleware, background tasks, and project structure for production APIs.
+FastAPI done right. Async patterns, dependency injection, Pydantic v2 models, middleware, background
+tasks, and project structure for production APIs.
 
 ## Install
 
@@ -28,7 +29,8 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ### Skills
 
-- **fastapi-best-practices** - FastAPI done right. Async patterns, dependency injection, Pydantic v2 models, middleware, and project structure.
+- **fastapi-best-practices** - FastAPI done right. Async patterns, dependency injection, Pydantic v2
+  models, middleware, and project structure.
 
 ### Rules
 
@@ -40,7 +42,8 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ## Why This Plugin?
 
-AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses current FastAPI best practices:
+AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses
+current FastAPI best practices:
 
 - Uses def for CPU-bound and async def for I/O-bound instead of making everything async or sync
 - Uses Depends() instead of global variables for databases and config
