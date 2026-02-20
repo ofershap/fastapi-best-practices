@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-best-practices",
+  "owner": {
+    "name": "Ofer Shapira",
+    "email": "ofer@shapira.dev"
+  },
+  "metadata": {
+    "description": "FastAPI done right. Async patterns, dependency injection, Pydantic v2 models, middleware, background tasks, and project structure for production APIs.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "fastapi-best-practices",
+      "source": ".",
+      "description": "FastAPI done right. Async patterns, dependency injection, Pydantic v2 models, middleware, background tasks, and project structure for production APIs."
+    }
+  ]
+}
